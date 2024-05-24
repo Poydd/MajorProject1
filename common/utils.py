@@ -148,7 +148,8 @@ def indian_director_chart(df):
     layout = go.Layout(title="Movie Directors from India with most content", legend=dict(x=0.1, y=1.1, orientation="h"))
     fig = go.Figure(data, layout=layout)
     return fig
-
+ 
+ 
 
 def counts_of_movies_categories(df):
     plt.figure(figsize=(12, 3))
