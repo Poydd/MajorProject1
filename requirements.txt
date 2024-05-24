@@ -1,0 +1,11 @@
+graph_objects
+offline
+pandas~=2.0.3
+seaborn~=0.12.2
+matplotlib~=3.7.2
+figure_factory
+subplots
+numpy
+flask~=2.2.5
+sqlalchemy~=2.0.20
+plotly~=5.15.0
